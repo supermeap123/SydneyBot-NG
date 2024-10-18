@@ -1,0 +1,13 @@
+sydneybot-ng/
+├── cogs/
+│   └── sydneybot_cog.py
+├── data/
+│   └── conversations/
+├── logs/
+├── config.py
+├── database.py
+├── helpers.py
+├── openapi.py
+├── bot.py
+├── requirements.txt
+└── .env
